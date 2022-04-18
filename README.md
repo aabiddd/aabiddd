@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aabiddd
-- 🌱 I’m currently learning C and CSS
+- 👋 Hi, I’m Aabid living in Kathmandu.
+- 🌱 I’m currently learning C and CSS.
 - 📫 How to reach me:
 - instagram: _aabeed
 - twitter: @AabeedAlee
