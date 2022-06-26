@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aabid living in Kathmandu.
-- 🌱 I’m currently learning C and CSS.
 - 📫 How to reach me: (my instagram account) _aabeed
 
 <!---
