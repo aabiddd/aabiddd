@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Aabid living in Kathmandu.
-- 📫 How to reach me: (instagram) _aabeed
+- 👋 Hi, I’m Aabid from Kathmandu.
+- 📫 Instagram: _aabeed
+- Currently working on my private repositories!!
+
 
 <!---
 aabiddd/aabiddd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
