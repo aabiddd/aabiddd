@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aabid from Kathmandu.
 - 📫 Instagram: _aabeed
+- 🐦 Twitter: _aabiddd
 - Currently working on my private repositories!!
 
 
