@@ -1,5 +1,6 @@
 <h1 align="center">Hi, Aabid Ali Mansoor here.</h1>
-- 🔭 Currently working on my **college stuffs.**
+
+- 🔭 Currently working on my **college stuffs**
 
 - 🌱 I’m currently learning **data science and machine learning.**
 
