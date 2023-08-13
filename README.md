@@ -1,6 +1,4 @@
 <h1 align="center">Hi, Aabid Ali Mansoor here.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🔭 I’m currently working on **my college stuffs.**
 
 - 🌱 I’m currently learning **data science and machine learning.**
