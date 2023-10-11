@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on my **college stuffs**
 
-- 🌱 I’m currently learning **data science and machine learning.**
+- 🌱 Learning **data science and machine learning.**
 
 - 📫 How to reach me **aabeedalee@gmail.com**
 
